@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+}
+
+h1 {
+    padding: 10px;
+    background-color: lightgrey;
+    border: 1px solid gray;
+}
+
+button#getNew {
+    margin: 25px;
+    padding: 15px 30px;
+    font-size: 1.5em;
+}
+
+li {
+    display: flex;
+    flex-direction: row;
+    background-color: lightgrey;
+    padding: 10px 20px;
+    margin: 20px;
+}
+
+/*
+#name, #buttons {
+
+}
+*/
+
+button {
+    background-color: lightgrey;
+    padding: 10px;
+    font-size: 1.5em;
+}
